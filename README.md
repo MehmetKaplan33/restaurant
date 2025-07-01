@@ -1,5 +1,5 @@
 # Restaurant Website
-gi
+
 ## 📸 Sample Images
 
 Below are some sample images used in this project:
